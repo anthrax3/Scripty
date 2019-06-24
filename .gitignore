@@ -32,3 +32,4 @@ ipch
 **/TestCsx/*.scriptytmp
 **/TestCsx/*.rewrite.*
 **/TestCs/*.rewrite.*
+/src/.vs/Scripty/v16/Server/sqlite3
